@@ -85,4 +85,3 @@
        reboot_timeout: 40
        connect_timeout: 60
        test_command: uptime
-...
